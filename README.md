@@ -9,8 +9,8 @@ Atualmente, estou me aprofundando em **React, Next.js e TypeScript**, sempre em 
 
 - 👨‍💻 Trabalhando em projetos pessoais para aprimorar minhas habilidades.
 - 🌱 Atualmente aprendendo sobre Arquitetura de Software e Testes Automatizados.
-- 📫 Como me encontrar: **arturkuzma@hotmail.com**
-- 📄 Conheça minha trajetória profissional no [LinkedIn](https://www.linkedin.com/in/artur-kuzma-marques-723398242/) <br>
+- 📫 Como me encontrar: **akmarques03@gmail.com**
+- 📄 Conheça minha trajetória profissional no [LinkedIn](www.linkedin.com/in/artur-kuzma-marques-4976aa285) <br>
 
 ## 🛠️ Tecnologias e Ferramentas
 
