@@ -35,14 +35,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ## 📊 Minhas Estatísticas no GitHub
 
-<div>
-<a href="https://github.com/Arture07">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arture07&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?sername=Arture07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-![GitHub Stats] <img loading ="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=Arture07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arture07&layout=compact&langs_count=7&theme=radical)
+<img loading ="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=Arture07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img loading ="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arture07&layout=compact&langs_count=7&theme=radical/">
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arture07&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 <br>
