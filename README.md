@@ -46,9 +46,9 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 Estou aberto a novas oportunidades e colaborações. Vamos nos conectar!
 
 <p align="left">
-  <a href="mailto:arturkuzma@hotmail.com" alt="Email">
+  <a href="mailto:akmarques03@gmail.com" alt="Email">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
-  <a href="https://www.linkedin.com/in/artur-kuzma-marques-723398242/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/artur-kuzma-marques-4976aa285" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
 </p>
