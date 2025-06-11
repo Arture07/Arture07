@@ -36,7 +36,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ## 📊 Minhas Estatísticas no GitHub
 
 <img loading ="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=Arture07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img loading ="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arture07&layout=compact&langs_count=7&theme=dark/">
+<img loading ="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arture07&layout=compact&langs_count=7&theme=radical">
 <img loading ="lazy" height="200em" src="https://streak-stats.demolab.com?user=Arture07&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats/">
 
 <br>
