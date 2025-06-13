@@ -35,31 +35,32 @@ Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de n
 
 ## 🚀 Meus Principais Projetos
 
-<table align="center">
+<table align="center" style="width:100%">
   <tr align="center">
-    <td>
+    <td valign="top" width="50%">
       <a href="https://github.com/Arture07/FastBite">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=FastBite&theme=radical" alt="Projeto FastBite"/>
       </a>
       <p><strong>FastBite</strong></p>
       <p>Um app de delivery de comida feito em Flutter e Dart.</p>
     </td>
-    <td>
+    <td valign="top" width="50%">
       <a href="https://github.com/Arture07/arture07.github.io">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=arture07.github.io&theme=radical" alt="Projeto ShelfWise"/>
       </a>
       <p><strong>ShelfWise Biblioteca</strong></p>
-      <p>Site de biblioteca completo, usei HTML, CSS, JavaScript, Python.</p>
+      <p>Site de biblioteca completo, com HTML, CSS, JavaScript e Python.</p>
     </td>
   </tr>
-    <td>
+  <tr align="center">
+    <td valign="top" width="50%">
       <a href="https://github.com/Arture07/Sistema-Bancario">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=Sistema-Bancario&theme=radical" alt="Projeto Sistema-Bancario"/>
       </a>
       <p><strong>Sistema Bancário</strong></p>
       <p>App de sistema bancário com níveis de acesso, feito com Python.</p>
     </td>
-      <td>
+    <td valign="top" width="50%">
       <a href="https://github.com/Arture07/PUCPRRACING">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=PUCPRRACING&theme=radical" alt="Projeto PUCPRRACING"/>
       </a>
