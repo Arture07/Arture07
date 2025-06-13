@@ -49,7 +49,7 @@ Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de n
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=arture07.github.io&theme=radical" alt="Projeto ShelfWise"/>
       </a>
       <p><strong>ShelfWise Biclioteca</strong></p>
-      <p>Um site de biblioteca completo, usando HTML, CSS JavaScript, Python/Flask.</p>
+      <p>Site de biblioteca completo, usando HTML, CSS JavaScript, Python/Flask.</p>
     </td>
   </tr>
 </table>
