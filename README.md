@@ -39,7 +39,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arture07&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arture07&layout=compact&langs_count=7&theme=radical)
-[![Artur's 3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=Arture07&theme=radical)](https://github.com/Arture07)
+[![Artur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arture07&theme=radical&bg_color=141321&hide_border=true&custom_title=Minhas%20Contribuições%20no%20Último%20Ano)](https://github.com/Arture07)
 
 <br>
 
