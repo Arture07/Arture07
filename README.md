@@ -51,7 +51,7 @@ Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de n
       <p><strong>ShelfWise Biblioteca</strong></p>
       <p>Site de biblioteca completo, usei HTML, CSS, JavaScript, Python.</p>
     </td>
-    <br>
+  </tr>
     <td>
       <a href="https://github.com/Arture07/Sistema-Bancario">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=Sistema-Bancario&theme=radical" alt="Projeto Sistema-Bancario"/>
