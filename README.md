@@ -48,9 +48,16 @@ Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de n
       <a href="https://github.com/Arture07/arture07.github.io">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=arture07.github.io&theme=radical" alt="Projeto ShelfWise"/>
       </a>
-      <p><strong>ShelfWise Biblioyrva</strong></p>
+      <p><strong>ShelfWise Biblioteca</strong></p>
       <p>Site de biblioteca completo, usei HTML, CSS, JavaScript, Python.</p>
     </td>
+    <td>
+      <a href="https://github.com/Arture07/Sistema-Bancario">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=Sistema-Bancario&theme=radical" alt="Projeto Sistema-Bancario"/>
+      </a>
+      <p><strong>Sistema Bancário</strong></p>
+      <p>App de sistema bancário com níveis de acesso, feito com Python.</p>
+  </td>
   </tr>
 </table>
 
