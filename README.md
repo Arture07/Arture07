@@ -16,7 +16,7 @@ Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de n
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
+<div>
   <img align="center" alt="Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <img align="center" alt="Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
