@@ -31,6 +31,34 @@ Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de n
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
+<br>
+
+## 🚀 Meus Principais Projetos
+
+<table align="center">
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Arture07/FastBite">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=FastBite&theme=radical" alt="Projeto FastBite"/>
+      </a>
+      <p><strong>FastBite</strong></p>
+      <p>Um app de delivery de comida feito em Flutter e Dart.</p>
+    </td>
+    <td>
+      <a href="https://github.com/Arture07/PUCPRRACING">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=PUCPRRACING&theme=radical" alt="Projeto PUCPRRACING"/>
+      </a>
+      <p><strong>PUCPR RACING</strong></p>
+      <p>Projeto para a equipe de corrida da faculdade, usando Python.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/Arture07?tab=repositories">
+    <b>Ver todos os repositórios</b>
+  </a>
+</div>
 
 <br>
 
