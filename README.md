@@ -64,6 +64,10 @@ Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de n
 
 ## 📊 Minhas Estatísticas no GitHub
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arture07&theme=radical&column=7" alt="GitHub Trophies"/>
+</p>
+
 <table align="center">
   <tr>
     <td align="center">
