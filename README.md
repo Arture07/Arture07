@@ -51,7 +51,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arture07&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  <img src="https://github-profile-3d-contrib.vercel.app/github-profile-3d-contrib.svg?username=Arture07&theme=radical" />
 </p>
 <br>
 
