@@ -58,7 +58,14 @@ Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de n
       </a>
       <p><strong>Sistema Bancário</strong></p>
       <p>App de sistema bancário com níveis de acesso, feito com Python.</p>
-  </td>
+    </td>
+      <td>
+      <a href="https://github.com/Arture07/PUCPRRACING">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=PUCPRRACING&theme=radical" alt="Projeto PUCPRRACING"/>
+      </a>
+      <p><strong>PUCPR RACING</strong></p>
+      <p>Projeto para a equipe de corrida da faculdade, usando Python.</p>
+    </td>
   </tr>
 </table>
 
