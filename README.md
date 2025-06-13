@@ -45,8 +45,8 @@ Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de n
       <p>Um app de delivery de comida feito em Flutter e Dart.</p>
     </td>
     <td>
-      <a href="https://github.com/Arture07/PUCPRRACING">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=PUCPRRACING&theme=radical" alt="Projeto PUCPRRACING"/>
+      <a href="https://github.com/Arture07/arture07.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=arture07.github.io&theme=radical" alt="Projeto ShelfWise"/>
       </a>
       <p><strong>PUCPR RACING</strong></p>
       <p>Projeto para a equipe de corrida da faculdade, usando Python.</p>
