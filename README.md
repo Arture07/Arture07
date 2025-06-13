@@ -48,8 +48,8 @@ Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de n
       <a href="https://github.com/Arture07/arture07.github.io">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arture07&repo=arture07.github.io&theme=radical" alt="Projeto ShelfWise"/>
       </a>
-      <p><strong>ShelfWise Biclioteca</strong></p>
-      <p>Site de biblioteca completo, feito com HTML, CSS, JavaScript, Python.</p>
+      <p><strong>ShelfWise Biblioyrva</strong></p>
+      <p>Site de biblioteca completo, usei HTML, CSS, JavaScript, Python.</p>
     </td>
   </tr>
 </table>
