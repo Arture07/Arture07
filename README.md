@@ -36,11 +36,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ## 📊 Minhas Estatísticas no GitHub
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arture07&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arture07&layout=compact&langs_count=7&theme=radical)
-## 📊 Minhas Estatísticas no GitHub
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arture07&bg_color=141321&color=e3e3e3&line=8943eb&point=e3e3e3&area=true&hide_border=true" alt="Gráfico de Atividade do GitHub" />
 </p>
