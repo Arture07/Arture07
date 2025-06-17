@@ -10,7 +10,7 @@ Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de n
 - 👨‍💻 Trabalhando em projetos pessoais para aprimorar minhas habilidades.
 - 🌱 Atualmente estudando Engenharia de Software na faculdade PUCPR.
 - 📫 Como me encontrar: **akmarques03@gmail.com**
-- 📄 Conheça minha trajetória profissional no [LinkedIn](www.linkedin.com/in/devarturkuzmamarques/)
+- 📄 Conheça minha trajetória profissional no [LinkedIn](https://www.linkedin.com/in/devarturkuzmamarques/)
 
 <br>
 
