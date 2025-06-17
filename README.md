@@ -10,7 +10,7 @@ Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de n
 - 👨‍💻 Trabalhando em projetos pessoais para aprimorar minhas habilidades.
 - 🌱 Atualmente estudando Engenharia de Software na faculdade PUCPR.
 - 📫 Como me encontrar: **akmarques03@gmail.com**
-- 📄 Conheça minha trajetória profissional no [LinkedIn](https://www.linkedin.com/in/artur-kuzma-marques-4976aa285)
+- 📄 Conheça minha trajetória profissional no [LinkedIn](www.linkedin.com/in/devarturkuzmamarques)
 
 <br>
 
@@ -106,7 +106,7 @@ Estou aberto a novas oportunidades e colaborações. Vamos nos conectar!
   <a href="mailto:akmarques03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar um e-mail para Artur" />
   </a>
-  <a href="https://www.linkedin.com/in/artur-kuzma-marques-4976aa285" target="_blank">
+  <a href="www.linkedin.com/in/devarturkuzmamarques" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link para o LinkedIn" />
   </a>
 </p>
