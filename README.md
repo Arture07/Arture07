@@ -106,7 +106,7 @@ Estou aberto a novas oportunidades e colaborações. Vamos nos conectar!
   <a href="mailto:akmarques03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar um e-mail para Artur" />
   </a>
-  <a href="www.linkedin.com/in/devarturkuzmamarques" target="_blank">
+  <a href="https://www.linkedin.com/in/devarturkuzmamarques" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link para o LinkedIn" />
   </a>
 </p>
