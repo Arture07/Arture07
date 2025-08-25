@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e estudante de Engenharia de Software na PUCPR. Meu foco principal é conseguir uma vaga de trabalho para colocar em prática os meus conhecimentos.
 
-Atualmente, estou me aprofundando em **Python, Dart e C#**, sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
+Atualmente, estou me aprofundando em **Java, Python, Dart e C#**, sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
 
 - 👨‍💻 Trabalhando em projetos pessoais para aprimorar minhas habilidades.
 - 🌱 Atualmente estudando Engenharia de Software na faculdade PUCPR.
